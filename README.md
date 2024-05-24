@@ -2,8 +2,11 @@
 Extracción y digitación automática de docuentos de cartaportes.
 
 ## LOG
-23-Mayo: r0.87 Downgrade to Mayo-17
-17-Mayo: r0.87 Improved Codebin by going back. Improved exit (GUI and Server).
+24-Mayo: r0.874 Fixed ecuapass_bot:currentRecord instead procesedRecords.
+23-Mayo: r0.873 Improver timer ending.
+23-Mayo: r0.872 Updated from windows installation.
+23-Mayo: r0.871 Fixed errors: testing.
+22-Mayo: r0.87  Added DocNumber to GUI. Improved info:embalaje.
 16-Mayo: r0.86  Added two user for NTA. Codebin search using NAME istead ID.
 13-Mayo: r0.851 Add headless.
 13-Mayo: r0.850 Improved CodebinBot. Fixed info classes.
