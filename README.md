@@ -2,6 +2,7 @@
 Extracción y digitación automática de docuentos de cartaportes.
 
 ## LOG
+27-Mayo: r0.876 Added headless only for debug.
 27-Mayo: r0.875 Removed headless only for debug.
 24-Mayo: r0.874 Fixed ecuapass_bot:currentRecord instead procesedRecords.
 23-Mayo: r0.873 Improver timer ending.
